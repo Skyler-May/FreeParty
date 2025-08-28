@@ -8,7 +8,7 @@
 ## 步骤二 [设置office版本](https://config.office.com/deploymentsettings)
 
 1. 产品和版本
-<img src="https://github.com/Skyler-May/FreeParty/blob/main/office%202024/img/%E4%BA%A7%E5%93%81%E5%92%8C%E7%89%88%E6%9C%AC.png" />
+<img src="https://github.com/Skyler-May/FreeParty/blob/main/office%202024/img/1-Products-Versions.png" />
 
 2. 语言
 
